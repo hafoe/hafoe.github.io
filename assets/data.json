@@ -9,18 +9,18 @@
     "teaching"
   ],
   "home": {
-    "description": "Welcome to my website! I am a Ph.D. candidate in Economics at University of Mannheim. My research interests are in theoretical microeconometrics and in particular in questions revolving around the evaluation of social programs.",
-    "highlight": "I will be available for interviews at the 2019 ASSA meetings in ???",
+    "description": "Welcome to my website! I am a Ph.D. candidate in Economics at University of Mannheim. My research interests are in Applied Microeconometrics, Labor Economics and Family Economics.",
+    "highlight": "I will be available for interviews at the 2019 ASSA meetings in Atlanta",
     "contact": [
       {"text": "University of Mannheim"},
       {"text": "Department of Economics"},
       {"type": "email", "text": "hanno.foerster@gess.uni-mannheim.de"},
-      {"type": "phone", "text": "+49 621 181 3431"}
+      {"type": "phone", "text": "+49 621 181 1905"}
     ],
     "fields": [
-      "Applied Microeconomics",
+      "Applied Microeconometrics",
       "Labor Economics",
-      "Public Economics"
+      "Family Economics"
     ],
     "desire_title": "Supervisor",
     "desire": [
