@@ -22,10 +22,9 @@
       "Labor Economics",
       "Family Economics"
     ],
-    "desire_title": "References",
+    "desire_title": "Supervisor",
     "desire": [
-      "Gerard J. van den Berg",
-      "Michèle Tertilt"
+      "Gerard J. van den Berg"
     ]
   },
   "research": [
@@ -79,60 +78,48 @@
   ],
   "teaching": [
     {
-      "name": "University of Mannheim",
+      "name": "X University",
       "courses": [
-                {
-          "name": "Introductory Econometrics",
-          "semester": "Summer 2017",
+        {
+          "name": "Course X 1",
+          "semester": "Fall 2017",
           "type": "undergraduate",
-          "instructor": "Markus Frölich"
+          "instructor": "Teacher X 1"
         },
         {
-          "name": "Applied Econometrics",
-          "semester": "Fall 2014",
-          "type": "graduate",
-          "instructor": "Anna Raute"
+          "name": "Course X 2",
+          "semester": "Summer 2017",
+          "type": "undergraduate (online)",
+          "instructor": "Teacher X 2"
         }
       ]
     },
     {
-      "name": "University of Bonn",
+      "name": "Y University",
       "courses": [
         {
-          "name": "Empirical Methods (Bachelor Thesis preparation Seminar)",
-          "semester": "Summer 2013",
+          "name": "Course Y 1",
+          "semester": "2010-2011",
           "type": "undergraduate",
+          "instructor": "Teacher Y 1"
+        }
+      ]
+    },
+    {
+      "name": "Z University",
+      "courses": [
+        {
+          "name": "Course Z 1",
+          "semester": "2009-2011",
+          "type": "undergraduate",
+          "instructor": "Teacher Z 1"
         },
         {
-          "name": "Microeconometrics",
-          "semester": "Fall 2012",
-          "type": "graduate",
-          "instructor": "Hans-Martin v. Gaudecker"
-        },
-        {
-          "name": "Introductory Statistics",
-          "semester": "Summer 2011",
+          "name": "Course Z 2",
+          "semester": "2004-2009",
           "type": "undergraduate",
-          "instructor": "Lorens Imhof"
-        },
-        {
-          "name": "Introductory Econometrics",
-          "semester": "Fall 2010",
-          "type": "undergraduate",
-          "instructor": "Jörg Breitung"
-        },
-        {
-          "name": "Introductory Finance",
-          "semester": "Summer 2010",
-          "type": "undergraduate",
-          "instructor": "Klaus Sandmann"
-        },
-        {
-          "name": "Organization and Management",
-          "semester": "Fall 2009",
-          "type": "undergraduate",
-          "instructor": "Matthias Kräkel"
-        }    
+          "instructor": "Teacher Z 2"
+        }
       ]
     }
   ]
