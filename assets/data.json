@@ -78,19 +78,19 @@
   ],
   "teaching": [
     {
-      "name": "X University",
+      "name": "University of Mannheim",
       "courses": [
-        {
-          "name": "Course X 1",
-          "semester": "Fall 2017",
+                {
+          "name": "Introductory Econometrics",
+          "semester": "Summer 2017",
           "type": "undergraduate",
-          "instructor": "Teacher X 1"
+          "instructor": "Markus Frölich"
         },
         {
-          "name": "Course X 2",
-          "semester": "Summer 2017",
-          "type": "undergraduate (online)",
-          "instructor": "Teacher X 2"
+          "name": "Applied Econometrics",
+          "semester": "Fall 2014",
+          "type": "graduate",
+          "instructor": "Anna Raute"
         }
       ]
     },
