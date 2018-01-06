@@ -60,7 +60,7 @@
       "courses": [
                 {
           "name": "Introductory Econometrics",
-          "semester": "Summer 2017",
+          "semester": "Spring 2017",
           "type": "undergraduate",
           "instructor": "Markus Frölich"
         },
@@ -77,7 +77,7 @@
       "courses": [
         {
           "name": "Empirical Methods (Bachelor Thesis preparation Seminar)",
-          "semester": "Summer 2013",
+          "semester": "Spring 2013",
           "type": "undergraduate"
         },
         {
@@ -88,7 +88,7 @@
         },
         {
           "name": "Introductory Statistics",
-          "semester": "Summer 2011",
+          "semester": "Spring 2011",
           "type": "undergraduate",
           "instructor": "Lorens Imhof"
         },
@@ -100,7 +100,7 @@
         },
         {
           "name": "Introductory Finance",
-          "semester": "Summer 2010",
+          "semester": "Spring 2010",
           "type": "undergraduate",
           "instructor": "Klaus Sandmann"
         },
