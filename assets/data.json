@@ -94,14 +94,13 @@
         }
       ]
     },
-    {
-      "name": "Y University",
+ {
+      "name": "University of Bonn",
       "courses": [
         {
-          "name": "Course Y 1",
-          "semester": "2010-2011",
+          "name": "Empirical Methods (Bachelor Thesis preparation Seminar)",
+          "semester": "Summer 2013",
           "type": "undergraduate",
-          "instructor": "Teacher Y 1"
         }
       ]
     }
