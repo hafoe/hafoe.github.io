@@ -95,14 +95,43 @@
       ]
     },
     {
-      "name": "Y University",
+      "name": "University of Bonn",
       "courses": [
         {
-          "name": "Course Y 1",
-          "semester": "2010-2011",
+          "name": "Empirical Methods (Bachelor Thesis preparation Seminar)",
+          "semester": "Summer 2013",
           "type": "undergraduate",
-          "instructor": "Teacher Y 1"
-        }
+        },
+        {
+          "name": "Microeconometrics",
+          "semester": "Fall 2012",
+          "type": "graduate",
+          "instructor": "Hans-Martin v. Gaudecker"
+        },
+        {
+          "name": "Introductory Statistics",
+          "semester": "Summer 2011",
+          "type": "undergraduate",
+          "instructor": "Lorens Imhof"
+        },
+        {
+          "name": "Introductory Econometrics",
+          "semester": "Fall 2010",
+          "type": "undergraduate",
+          "instructor": "Jörg Breitung"
+        },
+        {
+          "name": "Introductory Finance",
+          "semester": "Summer 2010",
+          "type": "undergraduate",
+          "instructor": "Klaus Sandmann"
+        },
+        {
+          "name": "Organization and Management",
+          "semester": "Fall 2009",
+          "type": "undergraduate",
+          "instructor": "Matthias Kräkel"
+        } 
       ]
     }
   ]
