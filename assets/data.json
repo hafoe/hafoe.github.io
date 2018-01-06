@@ -32,16 +32,9 @@
       "title": "Working papers",
       "papers": [
         {
-          "title": "Working paper title 1 [Job Market Paper]",
+          "title": "Pot-Marital Maintenance Payments [Job Market Paper]",
           "job_market_paper": true,
-          "authors": ["Hanno Foerster"],
-          "link": "assets/working_paper_title_1.pdf",
-          "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "title": "Working paper title 2 (draft coming soon)",
-          "authors": ["Hanno Foerster", "Another Person"],
-          "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          "authors": ["Hanno Foerster"]
         },
         {
           "title": "Working paper title 3",
@@ -54,7 +47,7 @@
       "papers": [
         {
           "title": "The Equilibrium Effects of Vacancy Referrals",
-          "authors": ["Gerard J. van den Berg","Hanno Foerster"],
+          "authors": ["Gerard J. van den Berg","Hanno Foerster"]
          }
       ]
     }
