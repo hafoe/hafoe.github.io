@@ -32,16 +32,47 @@
       "title": "Working papers",
       "papers": [
         {
-          "title": "Dynamic effects [Job Market Paper]",
+          "title": "Working paper title 1 [Job Market Paper]",
           "job_market_paper": true,
-          "authors": ["Hanno Foerster"]
+          "authors": ["Hanno Foerster"],
+          "link": "assets/working_paper_title_1.pdf",
+          "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         },
         {
-          "title": "Job search",
-          "authors": ["Gerard J. van den Berg", "Hanno Foerster", "Arne Uhlendorf"]     
+          "title": "Working paper title 2 (draft coming soon)",
+          "authors": ["Hanno Foerster", "Another Person"],
+          "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "title": "Working paper title 3",
+          "authors": ["Hanno Foerster", "Another Person", "(Submitted)"],
+          "link": "https://www.uni-mannheim.de",
+          "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "more_links": [
+            {
+              "name": "Secondary link",
+              "link": "http://www.google.com"
+            },
+            {
+              "name": "Other link",
+              "link": "http://www.wikipedia.com"
+            }
+          ]
         }
       ]
-    }
+    },
+    {
+      "title": "Work in progress",
+      "papers": [
+        {
+          "always_expanded": true,
+          "abstract": "Description of the other section as a paper item: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+          "title": "Other section title 2",
+          "authors": ["Hanno Foerster"],
+          "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
       ]
     }
   ],
