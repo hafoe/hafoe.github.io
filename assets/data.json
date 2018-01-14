@@ -10,7 +10,7 @@
   ],
   "home": {
     "description": "Welcome to my website! I am a Ph.D. candidate in Economics at University of Mannheim. My research interests are in Applied Microeconometrics, Labor Economics and Family Economics.",
-    "highlight": "I will be available for interviews at the 2019 ASSA meetings in Atlanta",
+    "highlight": "",
     "contact": [
       {"text": "University of Mannheim"},
       {"text": "Department of Economics"},
@@ -22,9 +22,10 @@
       "Labor Economics",
       "Family Economics"
     ],
-    "desire_title": "Supervisor",
+    "desire_title": "References",
     "desire": [
-      "Gerard J. van den Berg"
+      "Gerard J. van den Berg",
+      "Michèle Tertilt"
     ]
   },
   "research": [
