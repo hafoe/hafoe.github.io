@@ -1,6 +1,6 @@
 {
-  "color": "#000000",
-  "google_analytics_ID": "UA-54037920-9",
+  "color": "#0E6251",
+  "google_analytics_ID": "UA-111335548-1",
   "sub_title": "Ph.D. candidate at University of Mannheim",
   "cv_link": "assets/cv.pdf",
   "tabs": [
@@ -9,22 +9,23 @@
     "teaching"
   ],
   "home": {
-    "description": "Welcome to my website! I am a Ph.D. candidate in Economics at University of Mannheim. My research interests are in theoretical microeconometrics and in particular in questions revolving around the evaluation of social programs.",
-    "highlight": "I will be available for interviews at the 2019 ASSA meetings in ???",
+    "description": "Welcome to my website! I am a Ph.D. candidate in Economics at University of Mannheim. My research interests are in Applied Microeconometrics, Labor Economics and Family Economics.",
+    "highlight": "",
     "contact": [
       {"text": "University of Mannheim"},
       {"text": "Department of Economics"},
       {"type": "email", "text": "hanno.foerster@gess.uni-mannheim.de"},
-      {"type": "phone", "text": "+49 621 181 3431"}
+      {"type": "phone", "text": "+49 621 181 1905"}
     ],
     "fields": [
-      "Applied Microeconomics",
+      "Applied Microeconometrics",
       "Labor Economics",
-      "Public Economics"
+      "Family Economics"
     ],
-    "desire_title": "Supervisor",
+    "desire_title": "References",
     "desire": [
-      "Gerard J. van den Berg"
+      "Gerard J. van den Berg",
+      "Michèle Tertilt"
     ]
   },
   "research": [
@@ -32,93 +33,83 @@
       "title": "Working papers",
       "papers": [
         {
-          "title": "Working paper title 1 [Job Market Paper]",
+          "title": "The Impact of Post-Marital Maintenance on Dynamic Choices and Welfare of Couples",
           "job_market_paper": true,
           "authors": ["Hanno Foerster"],
-          "link": "assets/working_paper_title_1.pdf",
-          "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          "abstract": "In many countries divorce law mandates post-marital maintenance payments to insure lower-earning spouses against the drop in financial resources upon divorce. This paper studies to what extent post-marital maintenance affects married and divorced couples’ decisions and welfare. I estimate a dynamic model of family labor supply, savings and marital status and use it to analyze counterfactual policy scenarios in which the level and duration of post-marital maintenance are changed. Event studies based on German household survey data reveal strong patterns of household specialization around marriage and first childbirth, indicating an important role for post-marital maintenance. I target these patterns of household specialization in the structural estimation."
+
         },
         {
-          "title": "Working paper title 2 (draft coming soon)",
-          "authors": ["Hanno Foerster", "Another Person"],
-          "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "title": "Working paper title 3",
-          "authors": ["Hanno Foerster", "Another Person", "(Submitted)"],
-          "link": "https://www.uni-mannheim.de",
-          "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "more_links": [
-            {
-              "name": "Secondary link",
-              "link": "http://www.google.com"
-            },
-            {
-              "name": "Other link",
-              "link": "http://www.wikipedia.com"
-            }
-          ]
+          "title": "A Structural Evaluation of Vacancy Referrals, Sanctions and Sickness Absence",
+          "authors": ["Gerard J. van den Berg","Hanno Foerster","Barbara Hofmann","Arne Uhlendorff"]
         }
       ]
     },
     {
-      "title": "Other section",
+      "title": "Work in progress",
       "papers": [
         {
-          "always_expanded": true,
-          "abstract": "Description of the other section as a paper item: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        },
-        {
-          "title": "Other section title 2",
-          "authors": ["Hanno Foerster"],
-          "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        }
+          "title": "The Equilibrium Effects of Vacancy Referrals",
+          "authors": ["Gerard J. van den Berg","Hanno Foerster"]
+         }
       ]
     }
   ],
   "teaching": [
     {
-      "name": "X University",
+      "name": "University of Mannheim",
       "courses": [
-        {
-          "name": "Course X 1",
-          "semester": "Fall 2017",
+                {
+          "name": "Introductory Econometrics",
+          "semester": "Spring 2017",
           "type": "undergraduate",
-          "instructor": "Teacher X 1"
+          "instructor": "Markus Frölich"
         },
         {
-          "name": "Course X 2",
-          "semester": "Summer 2017",
-          "type": "undergraduate (online)",
-          "instructor": "Teacher X 2"
+          "name": "Applied Econometrics",
+          "semester": "Fall 2014",
+          "type": "graduate",
+          "instructor": "Anna Raute"
         }
       ]
     },
     {
-      "name": "Y University",
+      "name": "University of Bonn",
       "courses": [
         {
-          "name": "Course Y 1",
-          "semester": "2010-2011",
-          "type": "undergraduate",
-          "instructor": "Teacher Y 1"
-        }
-      ]
-    },
-    {
-      "name": "Z University",
-      "courses": [
-        {
-          "name": "Course Z 1",
-          "semester": "2009-2011",
-          "type": "undergraduate",
-          "instructor": "Teacher Z 1"
+          "name": "Empirical Methods (Bachelor Thesis preparation Seminar)",
+          "semester": "Spring 2013",
+          "type": "undergraduate"
         },
         {
-          "name": "Course Z 2",
-          "semester": "2004-2009",
+          "name": "Microeconometrics",
+          "semester": "Fall 2012",
+          "type": "graduate",
+          "instructor": "Hans-Martin v. Gaudecker"
+        },
+        {
+          "name": "Introductory Statistics",
+          "semester": "Spring 2011",
           "type": "undergraduate",
-          "instructor": "Teacher Z 2"
+          "instructor": "Lorens Imhof"
+        },
+        {
+          "name": "Introductory Econometrics",
+          "semester": "Fall 2010",
+          "type": "undergraduate",
+          "instructor": "Jörg Breitung"
+        },
+        {
+          "name": "Introductory Finance",
+          "semester": "Spring 2010",
+          "type": "undergraduate",
+          "instructor": "Klaus Sandmann"
+        },
+        {
+          "name": "Organization and Management",
+          "semester": "Fall 2009",
+          "type": "undergraduate",
+          "instructor": "Matthias Kräkel"
         }
       ]
     }
