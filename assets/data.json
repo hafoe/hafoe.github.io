@@ -9,7 +9,7 @@
     "teaching"
   ],
   "home": {
-    "description": "Welcome to my website! I am a Ph.D. candidate in Economics at University of Mannheim. My research interests are in Applied Microeconometrics, Labor Economics and Family Economics.",
+    "description": "Welcome to my website! I am a Ph.D. candidate in Economics at University of Mannheim. My research interests are in Labor Economics, Family Economics and Applied Microeconometrics.",
     "highlight": "",
     "contact": [
       {"text": "University of Mannheim"},
@@ -40,7 +40,7 @@
         },
         {
           "title": "A Structural Evaluation of Vacancy Referrals, Sanctions and Sickness Absence",
-          "authors": ["Gerard J. van den Berg","Hanno Foerster","Barbara Hofmann","Arne Uhlendorff"]
+          "authors": ["Gerard J. van den Berg","Hanno Foerster","Arne Uhlendorff"]
         }
       ]
     },
