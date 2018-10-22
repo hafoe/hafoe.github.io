@@ -32,17 +32,20 @@
   },
   "research": [
     {
-      "title": "Working papers",
+      "title": "Job Market Paper",
       "papers": [
         {
           "title": "The Impact of Post-Marital Maintenance on Dynamic Decisions and Welfare of Couples",
           "job_market_paper": true,
-          "authors": ["Hanno Foerster"]
+          "link": "assets/hannof_JMP.pdf.pdf",
+          "authors": ["Hanno Foerster"],
+          "abstract": "In many countries divorce law mandates post-marital maintenance payments (child support and alimony) to insure the lower earner in married couples against financial losses upon divorce. This paper studies how maintenance payments affect couples’ intertemporal decisions and welfare. I develop a dynamic model of family labor supply, housework, savings and divorce and estimate it using Danish register data. The model captures the policy trade off between providing insurance to the lower earner, enabling couples to specialize efficiently, on the one hand, and maintaining labor supply incentives for divorcees, on the other. I use the estimated model to analyze counterfactual policy scenarios in which child support and alimony payments are changed. The welfare maximizing maintenance policy is to increase (triple) child support payments and reduce alimony (by 12.5%) relative to the Danish status quo. Switching to the welfare maximizing policy makes men worse off, but comparisons to a hypothetical first best scenario reveal that there is scope for pareto improvements, pointing towards a role for more innovative maintenance policies."
 
         },
         {
-          "title": "A Structural Evaluation of Vacancy Referrals, Sanctions and Sickness Absence",
-          "authors": ["Gerard J. van den Berg","Hanno Foerster","Arne Uhlendorff"]
+          "title": "A Structural Analysis of Vacancy Referrals with Imperfect Monitoring and Sickness Absence",
+          "authors": ["Gerard J. van den Berg","Hanno Foerster","Arne Uhlendorff"],
+          "abstract": "Unemployment insurance (UI) systems typically pose job search requirements that benefit recipients need to satisfy. As a common part of these requirements UI agencies make job vacancy referrals (VRs) and sanction benefit recipients who refuse to apply. However, benefit recipients can circumvent this monitoring scheme by reporting sick after receipt of a VR. This paper studies how UI systems with VRs and sanctions impact moral hazard and reemployment rates. We develop a structural job search model that incorporates VRs and sanctions. Additionally our model allows for the possibility to report sick after receipt of a VR. We estimate our model using data from German social security records that are linked to caseworker recorded data on VRs and sickness absences. We use the estimated model to simulate counterfactual policy scenarios such as changing sanction duration, sanction severeness, the VR-rate and shutting down the possibility to report sick. The most promising policy change according to our model is increasing sanction enforcement. Increasing enforcement by 20% reduces unemployment duration by 0.5 months."
         }
       ]
     },
@@ -51,8 +54,9 @@
       "papers": [
         {
           "title": "The Equilibrium Effects of Vacancy Referrals",
-          "authors": ["Gerard J. van den Berg","Hanno Foerster"]
-         }
+          "authors": ["Gerard J. van den Berg","Hanno Foerster"],
+         "abstract":"In many countries public employment services send out job vacancy referrals (VRs) to bring together unemployed workers and firms who otherwise would not have matched. It has been documented that VRs have positive effects on individual reemployment probabilities. However, the impact of VRs on the unemployment rate depends on equilibrium effects that arise, e.g., from crowding out in the hiring process. This paper studies the effect of VRs on the unemployment rate in the presence of equilibrium effects. We develop a search and matching model with multiple applications and VRs that accounts for crowding out effects in the hiring process. A VR increases the reemployment probability of the job searcher receiving it, but incurs a negative externality on all other job searchers. We estimate our model using data from a German firm survey about the hiring process as well as survey data on the job search behavior of German unemployed workers. The estimated model is used to simulate counterfactual changes in the VR rate and analyze to what extent the positive individual level effects of VRs carry through to the aggregate."
+       }
       ]
     }
   ],
