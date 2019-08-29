@@ -1,7 +1,7 @@
 {
   "color": "#0E6251",
   "google_analytics_ID": "UA-111335548-1",
-  "sub_title": "Ph.D. candidate at University of Mannheim",
+  "sub_title": "Assistant Professor at Boston College",
   "cv_link": "assets/hannof_cv.pdf",
   "tabs": [
     "home",
@@ -15,7 +15,7 @@
       {"text": "Boston College"},
       {"text": "Department of Economics"},
       {"type": "email", "text": "hanno.foerster@bc.edu"},
-      {"type": "phone", "text": "+49 621 181 1905"}
+      {"type": "phone", "text": "(617) 552-6042"}
     ],
     "fields": [
       "Labor Economics",
