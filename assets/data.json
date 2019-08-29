@@ -14,8 +14,7 @@
     "contact": [
       {"text": "Boston College"},
       {"text": "Department of Economics"},
-      {"type": "email", "text": "hanno.foerster@bc.edu"},
-      {"type": "phone", "text": "(617) 552-6042"}
+      {"type": "email", "text": "hanno.foerster@bc.edu"}
     ],
     "fields": [
       "Labor Economics",
