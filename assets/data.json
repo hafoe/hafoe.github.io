@@ -9,12 +9,12 @@
     "teaching"
   ],
   "home": {
-    "description": "Welcome to my website! I am a Ph.D. candidate in Economics at University of Mannheim.\n My research interests are in Labor Economics, Family Economics and Applied Microeconometrics. I will be joining the Economics Department at Boston College as Assistant Professor in fall 2019.",
+    "description": "Welcome to my website! I am an Assistant Professor of Economics at Boston College and IZA Research Affiliate.\n My research interests are in Labor Economics, Family Economics and Applied Microeconometrics.",
     "highlight": "",
     "contact": [
-      {"text": "University of Mannheim"},
+      {"text": "Boston College"},
       {"text": "Department of Economics"},
-      {"type": "email", "text": "hanno.foerster@gess.uni-mannheim.de"},
+      {"type": "email", "text": "hanno.foerster@bc.edu"},
       {"type": "phone", "text": "+49 621 181 1905"}
     ],
     "fields": [
