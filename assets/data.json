@@ -32,7 +32,7 @@
   },
   "research": [
     {
-      "title": "Working paper",
+      "title": "Working papers",
       "papers": [
         {
           "title": "The Impact of Post-Marital Maintenance on Dynamic Decisions and Welfare of Couples (Job Market Paper)",
@@ -46,7 +46,7 @@
           "link": "assets/CRCTR224_2019_123.pdf",
           "authors": ["Gerard J. van den Berg","Hanno Foerster","Arne Uhlendorff"],
           "abstract": "Unemployment insurance (UI) systems typically pose job search requirements that benefit recipients need to satisfy. As a common part of these requirements UI agencies make job vacancy referrals (VRs) and sanction benefit recipients who refuse to apply. However, benefit recipients can circumvent this monitoring scheme by reporting sick after receipt of a VR. This paper studies how UI systems with VRs and sanctions impact moral hazard and reemployment rates. We develop a structural job search model that incorporates VRs and sanctions. Additionally our model allows for the possibility to report sick after receipt of a VR. We estimate our model using data from German social security records that are linked to caseworker recorded data on VRs and sickness absences. We use the estimated model to simulate counterfactual policy scenarios such as changing sanction duration, sanction severeness, the VR-rate and shutting down the possibility to report sick. The most promising policy change according to our model is increasing sanction enforcement. Increasing enforcement by 20% reduces unemployment duration by 0.5 months."
-        },
+        }
       ]
     },
     {
