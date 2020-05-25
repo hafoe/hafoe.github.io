@@ -5,8 +5,7 @@
   "cv_link": "assets/hannof_cv.pdf",
   "tabs": [
     "home",
-    "research",
-    "teaching"
+    "research"
   ],
   "home": {
     "description": "Welcome to my website! I am an Assistant Professor of Economics at Boston College and IZA Research Affiliate.\n My research interests are in Labor Economics, Family Economics and Applied Microeconometrics.",
