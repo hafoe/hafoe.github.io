@@ -9,10 +9,8 @@
   ],
   "home": {
     "description": "Welcome to my website! I am an Assistant Professor of Economics at Boston College and IZA Research Affiliate.\n My research interests are in Labor Economics, Family Economics and Applied Microeconometrics.",
-    "highlight":[
-      {"type": "email", "text": "hanno.foerster@bc.edu"},
-      {"type": "phone", "text": "+1 617 552 6042"}
-    ],
+    "highlight": [{"type": "email", "text": "hanno.foerster@bc.edu"}]
+    ,
     "contact": [
       {"text": "Boston College"},
       {"text": "Department of Economics"},
