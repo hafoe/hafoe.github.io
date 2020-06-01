@@ -9,7 +9,7 @@
   ],
   "home": {
     "description": "Welcome to my website! I am an Assistant Professor of Economics at Boston College and IZA Research Affiliate.\n My research interests are in Labor Economics, Family Economics and Applied Microeconometrics.",
-    "link":"https://google.com/",
+    "highlight":"<p>Link: \" + txt.link(\"https://www.w3schools.com\") + \"</p>",
     "contact": [
       {"text": "Boston College"},
       {"text": "Department of Economics"},
