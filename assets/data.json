@@ -8,7 +8,7 @@
     "research"
   ],
   "home": {
-    "description": "Welcome to my website! I am an Assistant Professor of Economics at Boston College and IZA Research Affiliate. My research interests are in Labor Economics, Family Economics and Applied Microeconometrics.                                                                                 test",
+    "description": "Welcome to my website! I am an Assistant Professor of Economics at Boston College and IZA Research Affiliate. My research interests are in Labor Economics, Family Economics and Applied Microeconometrics. \\ test",
     "contact": [
       {"text": "Boston College"},
       {"text": "Department of Economics"},
