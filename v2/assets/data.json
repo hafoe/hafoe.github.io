@@ -1,24 +1,14 @@
 {
   "color": "#0E6251",
-  "cv_as_link": true,
   "sub_title": "Assistant Professor at Boston College",
   "tabs": [
     "home",
-    "research"
+    "research",
+    "cv"
   ],
   "home": {
     "description": "Welcome to my website! I am an Assistant Professor of Economics at Boston College and IZA Research Affiliate. My research interests are in Labor Economics, Family Economics and Applied Microeconometrics.",
     "highlight": "",
-    "description_links": [
-      {
-        "text": "Google Scholar",
-        "link": "https://scholar.google.com/citations?user=25_FFLcAAAAJ"
-      },
-      {
-        "text": "Twitter",
-        "link": "https://twitter.com/hannofoe"
-      }
-    ],
     "contact": [
       {"text": "Boston College"},
       {"text": "Department of Economics"},
@@ -50,6 +40,16 @@
         "type": "link",
         "text": "Katja M. Kaufmann",
         "link": "https://scholar.google.it/citations?user=Dwfh8OYAAAAJ"
+      }
+    ],
+    "links": [
+      {
+        "text": "Google Scholar",
+        "link": "https://scholar.google.com/citations?user=25_FFLcAAAAJ"
+      },
+      {
+        "text": "Twitter",
+        "link": "https://twitter.com/hannofoe"
       }
     ]
   },
