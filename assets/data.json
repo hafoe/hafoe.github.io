@@ -1,24 +1,14 @@
 {
   "color": "#0E6251",
-  "cv_as_link": true,
+  "google_analytics_ID": "UA-111335548-1",
   "sub_title": "Assistant Professor at Boston College",
+  "cv_link": "assets/hannof_cv.pdf",
   "tabs": [
     "home",
     "research"
   ],
   "home": {
     "description": "Welcome to my website! I am an Assistant Professor of Economics at Boston College and IZA Research Affiliate. My research interests are in Labor Economics, Family Economics and Applied Microeconometrics.",
-    "highlight": "",
-    "description_links": [
-      {
-        "text": "Google Scholar",
-        "link": "https://scholar.google.com/citations?user=25_FFLcAAAAJ"
-      },
-      {
-        "text": "Twitter",
-        "link": "https://twitter.com/hannofoe"
-      }
-    ],
     "contact": [
       {"text": "Boston College"},
       {"text": "Department of Economics"},
@@ -30,31 +20,13 @@
       "Family Economics",
       "Applied Microeconometrics"
     ],
-    "references": [
-      {
-        "type": "link",
-        "text": "Gerard J. van den Berg",
-        "link": ""
-      },
-      {
-        "type": "link",
-        "text": "Michèle Tertilt",
-        "link": ""
-      },
-      {
-        "type": "link",
-        "text": "Hans-Martin von Gaudecker",
-        "link": ""
-      },
-      {
-        "type": "link",
-        "text": "Katja M. Kaufmann",
-        "link": ""
-      }
+    "desire_title": "References",
+    "desire": [
+      "Gerard J. van den Berg",
+      "Michèle Tertilt",
+      "Hans-Martin von Gaudecker",
+      "Katja M. Kaufmann"
     ]
-  },
-  "cv": {
-    "link": "assets/hannof_cv.pdf"
   },
   "research": [
     {
@@ -63,19 +35,8 @@
         {
           "title": "Untying the Knot: How Child Support and Alimony Affect Couples’ Dynamic Decisions and Welfare",
           "link": "assets/hannof_JMP.pdf",
-          "authors": ["Hanno Foerster"],
-          "abstract": "In many countries divorce law mandates post-marital maintenance payments (child support and alimony) to insure the lower earner in married couples against financial losses upon divorce. This paper studies how maintenance payments affect couples’ intertemporal decisions and welfare. I develop a dynamic model of family labor supply, housework, savings and divorce and estimate it using Danish register and survey data. The model captures the policy trade off between providing insurance to the lower earner and enabling couples to specialize efficiently, on the one hand, and maintaining labor supply incentives for divorcees, on the other hand. I use the estimated model to study various counterfactual policy scenarios. I find that alimony payments come with strong labor supply disincentives and as a consequence fail to provide consumption insurance. The welfare maximizing policy involves increasing the lump sum component of child support, increasing the dependence of child support on the payer’s income and reducing alimony payments relative to the Danish status quo. Switching to the welfare maximizing policy makes women better and men worse off, but comparisons to first best allocations show that Pareto improvements are feasible, highlighting a limitation of child support and alimony policies.",
-          "more_info": [
-            {
-              "text": "Revise and Resubmit at the Review of Economic Studies"
-            },
-            {
-              "text": "Awarded with the UniCredit Best Paper Award on Gender Economics"
-            },
-            {
-              "text": "Previously circulated as: The Impact of Post-Marital Maintenance on Dynamic Decisions and Welfare of Couples"
-            }
-          ]
+          "authors": ["Hanno Foerster", "Revise and Resubmit at the Review of Economic Studies", "Awarded with the UniCredit Best Paper Award on Gender Economics","Previously circulated as: The Impact of Post-Marital Maintenance on Dynamic Decisions and Welfare of Couples"],
+          "abstract": "In many countries divorce law mandates post-marital maintenance payments (child support and alimony) to insure the lower earner in married couples against financial losses upon divorce. This paper studies how maintenance payments affect couples’ intertemporal decisions and welfare. I develop a dynamic model of family labor supply, housework, savings and divorce and estimate it using Danish register and survey data. The model captures the policy trade off between providing insurance to the lower earner and enabling couples to specialize efficiently, on the one hand, and maintaining labor supply incentives for divorcees, on the other hand. I use the estimated model to study various counterfactual policy scenarios. I find that alimony payments come with strong labor supply disincentives and as a consequence fail to provide consumption insurance. The welfare maximizing policy involves increasing the lump sum component of child support, increasing the dependence of child support on the payer’s income and reducing alimony payments relative to the Danish status quo. Switching to the welfare maximizing policy makes women better and men worse off, but comparisons to first best allocations show that Pareto improvements are feasible, highlighting a limitation of child support and alimony policies."
         },
                       {
           "title": "A Structural Analysis of Vacancy Referrals with Imperfect Monitoring and Sickness Absence",
@@ -96,7 +57,7 @@
       {
           "title": "Job loss, Remarriage and Marital Sorting",
           "authors": ["Hanno Foerster","Tim Obermeier","Alexander Paul","Bastian Schulz"]
-        },
+        },      
         {
           "title": "The Political Economy of Laws to \"Protect\" Women",
           "authors": ["Matthias Doepke","Hanno Foerster","Anne Hannusch","Michèle Tertilt"]
