@@ -32,16 +32,24 @@
     ],
     "references": [
       {
-        "text": "Gerard J. van den Berg"
+        "type": "text",
+        "text": "Gerard J. van den Berg",
+        "link": ""
       },
       {
-        "text": "Michèle Tertilt"
+        "type": "text",
+        "text": "Michèle Tertilt",
+        "link": ""
       },
       {
-        "text": "Hans-Martin von Gaudecker"
+        "type": "text",
+        "text": "Hans-Martin von Gaudecker",
+        "link": ""
       },
       {
-        "text": "Katja M. Kaufmann"
+        "type": "text",
+        "text": "Katja M. Kaufmann",
+        "link": ""
       }
     ]
   },
