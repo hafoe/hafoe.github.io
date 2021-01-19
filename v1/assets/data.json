@@ -22,10 +22,10 @@
     ],
     "desire_title": "References",
     "desire": [
-      "Gerard J. van den Berg",
-      "Michèle Tertilt",
-      "Hans-Martin von Gaudecker",
-      "Katja M. Kaufmann"
+      {"text":"Gerard J. van den Berg"},
+      {"text":"Michèle Tertilt"},
+      {"text":"Hans-Martin von Gaudecker"},
+      {"text":"Katja M. Kaufmann"}
     ]
   },
   "research": [
