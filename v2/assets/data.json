@@ -1,0 +1,107 @@
+{
+  "color": "#0E6251",
+  "cv_as_link": true,
+  "sub_title": "Assistant Professor at Boston College",
+  "tabs": [
+    "home",
+    "research"
+  ],
+  "home": {
+    "description": "Welcome to my website! I am an Assistant Professor of Economics at Boston College and IZA Research Affiliate. My research interests are in Labor Economics, Family Economics and Applied Microeconometrics.",
+    "highlight": "",
+    "description_links": [
+      {
+        "text": "Google Scholar",
+        "link": "https://scholar.google.com/citations?user=25_FFLcAAAAJ"
+      },
+      {
+        "text": "Twitter",
+        "link": "https://twitter.com/hannofoe"
+      }
+    ],
+    "contact": [
+      {"text": "Boston College"},
+      {"text": "Department of Economics"},
+      {"type": "email", "text": "hanno.foerster@bc.edu"},
+      {"type": "phone", "text": "+1 617 552 6042"}
+    ],
+    "fields": [
+      "Labor Economics",
+      "Family Economics",
+      "Applied Microeconometrics"
+    ],
+    "references": [
+      {
+        "type": "link",
+        "text": "Gerard J. van den Berg",
+        "link": ""
+      },
+      {
+        "type": "link",
+        "text": "Michèle Tertilt",
+        "link": ""
+      },
+      {
+        "type": "link",
+        "text": "Hans-Martin von Gaudecker",
+        "link": ""
+      },
+      {
+        "type": "link",
+        "text": "Katja M. Kaufmann",
+        "link": ""
+      }
+    ]
+  },
+  "cv": {
+    "link": "assets/hannof_cv.pdf"
+  },
+  "research": [
+    {
+      "title": "Working papers",
+      "papers": [
+        {
+          "title": "Untying the Knot: How Child Support and Alimony Affect Couples’ Dynamic Decisions and Welfare",
+          "link": "assets/hannof_JMP.pdf",
+          "authors": ["Hanno Foerster"],
+          "abstract": "In many countries divorce law mandates post-marital maintenance payments (child support and alimony) to insure the lower earner in married couples against financial losses upon divorce. This paper studies how maintenance payments affect couples’ intertemporal decisions and welfare. I develop a dynamic model of family labor supply, housework, savings and divorce and estimate it using Danish register and survey data. The model captures the policy trade off between providing insurance to the lower earner and enabling couples to specialize efficiently, on the one hand, and maintaining labor supply incentives for divorcees, on the other hand. I use the estimated model to study various counterfactual policy scenarios. I find that alimony payments come with strong labor supply disincentives and as a consequence fail to provide consumption insurance. The welfare maximizing policy involves increasing the lump sum component of child support, increasing the dependence of child support on the payer’s income and reducing alimony payments relative to the Danish status quo. Switching to the welfare maximizing policy makes women better and men worse off, but comparisons to first best allocations show that Pareto improvements are feasible, highlighting a limitation of child support and alimony policies.",
+          "more_info": [
+            {
+              "text": "Revise and Resubmit at the Review of Economic Studies"
+            },
+            {
+              "text": "Awarded with the UniCredit Best Paper Award on Gender Economics"
+            },
+            {
+              "text": "Previously circulated as: The Impact of Post-Marital Maintenance on Dynamic Decisions and Welfare of Couples"
+            }
+          ]
+        },
+                      {
+          "title": "A Structural Analysis of Vacancy Referrals with Imperfect Monitoring and Sickness Absence",
+          "link": "assets/CRCTR224_2019_123.pdf",
+          "authors": ["Gerard J. van den Berg","Hanno Foerster","Arne Uhlendorff"],
+          "abstract": "Unemployment insurance (UI) systems typically pose job search requirements that benefit recipients need to satisfy. As a common part of these requirements UI agencies make job vacancy referrals (VRs) and sanction benefit recipients who refuse to apply. However, benefit recipients can circumvent this monitoring scheme by reporting sick after receipt of a VR. This paper studies how UI systems with VRs and sanctions impact moral hazard and reemployment rates. We develop a structural job search model that incorporates VRs and sanctions. Additionally our model allows for the possibility to report sick after receipt of a VR. We estimate our model using data from German social security records that are linked to caseworker recorded data on VRs and sickness absences. We use the estimated model to simulate counterfactual policy scenarios such as changing sanction duration, sanction severeness, the VR-rate and shutting down the possibility to report sick. The most promising policy change according to our model is increasing sanction enforcement. Increasing enforcement by 20% reduces unemployment duration by 0.5 months."
+        }
+      ]
+    },
+    {
+      "title": "Work in progress",
+      "papers": [
+        {
+          "title": "The Equilibrium Effects of Vacancy Referrals",
+          "authors": ["Gerard J. van den Berg","Hanno Foerster"],
+         "abstract":"In many countries public employment services send out job vacancy referrals (VRs) to bring together unemployed workers and firms who otherwise would not have matched. It has been documented that VRs have positive effects on individual reemployment probabilities. However, the impact of VRs on the unemployment rate depends on equilibrium effects that arise, e.g., from crowding out in the hiring process. This paper studies the effect of VRs on the unemployment rate in the presence of equilibrium effects. We develop a search and matching model with multiple applications and VRs that accounts for crowding out effects in the hiring process. A VR increases the reemployment probability of the job searcher receiving it, but incurs a negative externality on all other job searchers. We estimate our model using data from a German firm survey about the hiring process as well as survey data on the job search behavior of German unemployed workers. The estimated model is used to simulate counterfactual changes in the VR rate and analyze to what extent the positive individual level effects of VRs carry through to the aggregate."
+       },
+      {
+          "title": "Job loss, Remarriage and Marital Sorting",
+          "authors": ["Hanno Foerster","Tim Obermeier","Alexander Paul","Bastian Schulz"]
+        },
+        {
+          "title": "The Political Economy of Laws to \"Protect\" Women",
+          "authors": ["Matthias Doepke","Hanno Foerster","Anne Hannusch","Michèle Tertilt"]
+        }
+      ]
+    }
+  ]
+}
