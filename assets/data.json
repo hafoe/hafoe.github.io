@@ -30,11 +30,12 @@
       "Family Economics",
       "Applied Microeconometrics"
     ],
-    "references": [
+    "desire_title": "References",
+    "desire": [
       "Gerard J. van den Berg",
-"Michèle Tertilt",
-"Hans-Martin von Gaudecker",
- "Katja M. Kaufmann"
+      "Michèle Tertilt",
+      "Hans-Martin von Gaudecker",
+      "Katja M. Kaufmann"
     ]
   },
   "cv": {
