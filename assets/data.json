@@ -8,18 +8,8 @@
     "research"
   ],
   "home": {
-    "description": "Welcome to my website! I am an Assistant Professor of Economics at Boston College and IZA Research Affiliate.\n My research interests are in Labor Economics, Family Economics and Applied Microeconometrics.",
+    "description": "Welcome to my website! I am an Assistant Professor of Economics at Boston College and IZA Research Affiliate.\n My research interests are in Labor Economics, Family Economics and Applied Microeconomics.",
     "highlight": "",
-    "description_links": [
-      {
-        "text": "Google Scholar",
-        "link": "https://scholar.google.com/citations?user=25_FFLcAAAAJ"
-      },
-      {
-        "text": "Twitter",
-        "link": "https://twitter.com/hannofoe"
-      }
-    ],
     "contact": [
       {"text": "Boston College"},
       {"text": "Department of Economics"},
@@ -29,7 +19,7 @@
     "fields": [
       "Labor Economics",
       "Family Economics",
-      "Applied Microeconometrics"
+      "Applied Microeconomics"
     ]
   },
   "research": [
