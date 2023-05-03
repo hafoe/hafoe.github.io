@@ -28,21 +28,7 @@
     "fields": [
       "Labor Economics",
       "Family Economics",
-      "Applied Microeconometrics"
-    ],
-    "references": [
-      {
-        "text": "Gerard J. van den Berg"
-      },
-      {
-        "text": "Michèle Tertilt"
-      },
-      {
-        "text": "Hans-Martin von Gaudecker"
-      },
-      {
-        "text": "Katja M. Kaufmann"
-      }
+      "Applied Microeconomics"
     ]
   },
   "cv": {
@@ -56,7 +42,6 @@
           "title": "Untying the Knot: How Child Support and Alimony Affect Couples’ Dynamic Decisions and Welfare",
           "link": "assets/untying_revision1.pdf",
           "authors": ["Hanno Foerster"],
-          "abstract": "In many countries divorce law mandates post-marital maintenance payments (child support and alimony) to insure the lower earner in married couples against financial losses upon divorce. This paper studies how maintenance payments affect couples’ intertemporal decisions and welfare. I develop a dynamic model of family labor supply, housework, savings and divorce and estimate it using Danish register and survey data. The model captures the policy trade off between providing insurance to the lower earner and enabling couples to specialize efficiently, on the one hand, and maintaining labor supply incentives for divorcees, on the other hand. I use the estimated model to study various counterfactual policy scenarios. I find that alimony payments come with strong labor supply disincentives and as a consequence fail to provide consumption insurance. The welfare maximizing policy involves increasing the lump sum component of child support, increasing the dependence of child support on the payer’s income and reducing alimony payments relative to the Danish status quo. Switching to the welfare maximizing policy makes women better and men worse off, but comparisons to first best allocations show that Pareto improvements are feasible, highlighting a limitation of child support and alimony policies.",
           "more_info": [
             {
               "text": "Revised and Resubmitted, Review of Economic Studies"
@@ -72,8 +57,7 @@
                       {
           "title": "A Structural Analysis of Vacancy Referrals with Imperfect Monitoring and Sickness Absence",
           "link": "assets/CRCTR224_2019_123.pdf",
-          "authors": ["Gerard J. van den Berg","Hanno Foerster","Arne Uhlendorff"],
-          "abstract": "Unemployment insurance (UI) systems typically pose job search requirements that benefit recipients need to satisfy. As a common part of these requirements UI agencies make job vacancy referrals (VRs) and sanction benefit recipients who refuse to apply. However, benefit recipients can circumvent this monitoring scheme by reporting sick after receipt of a VR. This paper studies how UI systems with VRs and sanctions impact moral hazard and reemployment rates. We develop a structural job search model that incorporates VRs and sanctions. Additionally our model allows for the possibility to report sick after receipt of a VR. We estimate our model using data from German social security records that are linked to caseworker recorded data on VRs and sickness absences. We use the estimated model to simulate counterfactual policy scenarios such as changing sanction duration, sanction severeness, the VR-rate and shutting down the possibility to report sick. The most promising policy change according to our model is increasing sanction enforcement. Increasing enforcement by 20% reduces unemployment duration by 0.5 months."
+          "authors": ["Gerard J. van den Berg","Hanno Foerster","Arne Uhlendorff"]
         }
       ]
     },
