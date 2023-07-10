@@ -30,7 +30,7 @@
       "title": "Working papers",
       "papers": [
                 {
-          "title": "Untying the Knot: How Child Support and Alimony Affect Couples’ Dynamic Decisions and Welfare",
+          "title": "The Colocation Friction: Dual-Earner Job Search and Labor Market Outcomes",
           "link": "assets/colocation_friction.pdf",
           "authors": ["Hanno Foerster, Robert Ulbricht"]
         }
@@ -72,10 +72,6 @@
           "authors": ["Gerard J. van den Berg","Hanno Foerster"],
          "abstract":"In many countries public employment services send out job vacancy referrals (VRs) to bring together unemployed workers and firms who otherwise would not have matched. It has been documented that VRs have positive effects on individual reemployment probabilities. However, the impact of VRs on the unemployment rate depends on equilibrium effects that arise, e.g., from crowding out in the hiring process. This paper studies the effect of VRs on the unemployment rate in the presence of equilibrium effects. We develop a search and matching model with multiple applications and VRs that accounts for crowding out effects in the hiring process. A VR increases the reemployment probability of the job searcher receiving it, but incurs a negative externality on all other job searchers. We estimate our model using data from a German firm survey about the hiring process as well as survey data on the job search behavior of German unemployed workers. The estimated model is used to simulate counterfactual changes in the VR rate and analyze to what extent the positive individual level effects of VRs carry through to the aggregate."
        },
-        {
-          "title": "The Colocation Friction: Dual-Earner Job Search and Labor Market Outcomes",
-          "authors":["Hanno Foerster","Robert Ulbricht"]
-        },
         {
           "title": "The Political Economy of Laws to \"Protect\" Women",
           "authors": ["Matthias Doepke","Hanno Foerster","Anne Hannusch","Michèle Tertilt"]
