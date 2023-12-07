@@ -53,7 +53,11 @@
                       {
           "title": "Structural Empirical Analysis of Vacancy Referrals with Imperfect Monitoring and the Strategic Use of Sickness Absence",
           "link": "assets/vr091723.pdf",
-          "authors": ["Gerard J. van den Berg","Hanno Foerster","Arne Uhlendorff"]
+          "authors": ["Gerard J. van den Berg","Hanno Foerster","Arne Uhlendorff"],
+          "more_info": [
+            {
+              "text": "Revision Requested, Journal of Labor Economics"
+            }]
         }
       ]
     },
