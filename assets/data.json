@@ -29,6 +29,11 @@
     {
       "title": "Working papers",
       "papers": [
+                        {
+          "title": "Protection for Whom? The Political Economy of Protective Labor Laws for Women",
+          "link":"assets/protect_whom.pdf",
+          "authors": ["Matthias Doepke","Hanno Foerster","Anne Hannusch","Michèle Tertilt"]
+        },
                 {
           "title": "Job Displacement, Remarriage, and Marital Sorting",
           "link":"assets/jobloss_marriage.pdf",
