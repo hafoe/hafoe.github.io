@@ -29,15 +29,15 @@
     {
       "title": "Working papers",
       "papers": [
+                        {
+          "title": "The Colocation Friction: Dual-Earner Job Search, Migration, and Labor Market Outcomes",
+          "link": "assets/colocation_friction.pdf",
+          "authors": ["Hanno Foerster", "Robert Ulbricht"]
+        },
                 {
           "title": "Job Displacement, Remarriage, and Marital Sorting",
           "link":"assets/jobloss_marriage.pdf",
           "authors": ["Hanno Foerster","Tim Obermeier","Bastian Schulz"]
-        },
-                {
-          "title": "The Colocation Friction: Dual-Earner Job Search, Migration, and Labor Market Outcomes",
-          "link": "assets/colocation_friction.pdf",
-          "authors": ["Hanno Foerster", "Robert Ulbricht"]
         },
         {
           "title": "Protection for Whom? The Political Economy of Protective Labor Laws for Women",
