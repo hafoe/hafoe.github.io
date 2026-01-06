@@ -18,8 +18,7 @@
     ],
     "fields": [
       "Labor Economics",
-      "Family Economics",
-      "Applied Microeconomics"
+      "Family Economics"
     ]
   },
   "cv": {
@@ -37,7 +36,9 @@
                 {
           "title": "Job Displacement, Remarriage, and Marital Sorting",
           "link":"assets/jobloss_marriage.pdf",
-          "authors": ["Hanno Foerster","Tim Obermeier","Bastian Schulz"]
+          "authors": ["Hanno Foerster","Tim Obermeier","Bastian Schulz"],
+        "more_info":[
+          {"text":"Revision Requested, American Economic Journal: Macroeconomics"}]
         },
         {
           "title": "Protection for Whom? The Political Economy of Protective Labor Laws for Women",
@@ -61,7 +62,7 @@
               "text": "Awarded with the UniCredit Best Paper Award on Gender Economics"
             },
             {
-              "text": "Previously circulated as: The Impact of Post-Marital Maintenance on Dynamic Decisions and Welfare of Couples"
+              "text": "Previously Circulated as: The Impact of Post-Marital Maintenance on Dynamic Decisions and Welfare of Couples"
             }
           ]
         },
