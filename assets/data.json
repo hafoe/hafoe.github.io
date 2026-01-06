@@ -28,6 +28,13 @@
     {
       "title": "Working Papers",
       "papers": [
+                                {
+          "title": "Job Displacement, Remarriage, and Marital Sorting",
+          "link":"assets/jobloss_marriage.pdf",
+          "authors": ["Hanno Foerster","Tim Obermeier","Bastian Schulz"],
+        "more_info":[
+          {"text":"Revision Requested, American Economic Journal: Macroeconomics"}]
+        },
                         {
           "title": "The Colocation Friction: Dual-Earner Job Search, Migration, and Labor Market Outcomes",
           "link": "assets/colocation_friction.pdf",
@@ -37,13 +44,6 @@
           "title": "Protection for Whom? The Political Economy of Protective Labor Laws for Women",
           "link":"assets/protect_whom.pdf",
           "authors": ["Matthias Doepke","Hanno Foerster","Anne Hannusch","Michèle Tertilt"]
-        },
-                        {
-          "title": "Job Displacement, Remarriage, and Marital Sorting",
-          "link":"assets/jobloss_marriage.pdf",
-          "authors": ["Hanno Foerster","Tim Obermeier","Bastian Schulz"],
-        "more_info":[
-          {"text":"Revision Requested, American Economic Journal: Macroeconomics"}]
         }
       ]
     },
