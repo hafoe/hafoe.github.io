@@ -38,12 +38,16 @@
                         {
           "title": "The Colocation Friction: Dual-Earner Job Search, Migration, and Labor Market Outcomes",
           "link": "assets/colocation_friction.pdf",
-          "authors": ["Hanno Foerster", "Robert Ulbricht"]
+          "authors": ["Hanno Foerster", "Robert Ulbricht"],
+                  "more_info":[
+          {"text":"Submitted"}]
         },
         {
           "title": "Protection for Whom? The Political Economy of Protective Labor Laws for Women",
           "link":"assets/protect_whom.pdf",
-          "authors": ["Matthias Doepke","Hanno Foerster","Anne Hannusch","Michèle Tertilt"]
+          "authors": ["Matthias Doepke","Hanno Foerster","Anne Hannusch","Michèle Tertilt"],
+          "more_info":[
+          {"text":"Submitted"}]
         }
       ]
     },
