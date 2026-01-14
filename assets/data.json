@@ -7,7 +7,7 @@
     "research"
   ],
   "home": {
-    "description": "Welcome to my website! I am an Assistant Professor of Economics at Boston College and IZA Research Fellow. My research interests are in Labor Economics, Family Economics and Applied Microeconomics.",
+    "description": "Welcome to my website! I am an Assistant Professor of Economics at Boston College and IZA Research Fellow. My research interests are in Structural Labor Economics and Family Economics.",
     "highlight": "",
     "description_links": [],
     "contact": [
@@ -17,9 +17,8 @@
       {"type": "phone", "text": "+1 617 552 6042"}
     ],
     "fields": [
-      "Labor Economics",
-      "Family Economics",
-      "Applied Microeconomics",
+      "Structural Labor Economics",
+      "Family Economics"
     ]
   },
   "cv": {
