@@ -74,9 +74,14 @@
           "authors": ["Gerard J. van den Berg","Hanno Foerster","Arne Uhlendorff"],
           "more_info": [
             {
-              "text": "Accepted for Publication, Journal of Labor Economics"
+              "text": "Accepted for Publication, Journal of Labor Economics."
             }]
-        }
+        },
+        {
+          "title": "The Equilibrium Effects of Vacancy Referrals",
+          "link": "assets/eqvr.pdf",
+          "authors": ["Gerard J. van den Berg","Hanno Foerster"]
+        } 
       ]
     },
     {
